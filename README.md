@@ -62,7 +62,6 @@ Please make sure to update tests as appropriate
 +text in green
 !text in orange
 #text in grey
-@text in blue
 ```
 
 ```diff
@@ -70,7 +69,6 @@ Please make sure to update tests as appropriate
 +Grass
 !Orange
 #Smoke
-@Ocean
 ```
 
 [MIT](https://choosealicense.com/license/mit/)
