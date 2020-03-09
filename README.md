@@ -1,10 +1,10 @@
 README.md
 
-# numpy
+# Python
 
-## numpy
+## Python
 
-### numpy
+### Python
 
 Numpy is A Python Library for dealing with numerical useful python package.
 
